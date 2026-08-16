@@ -6,10 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "4-bit Input Full Adder 74HC/LS")
-		(company "Spark International")
 		(comment 1 "Author: lion1113")
-		(comment 2 "6c623133")
-		(comment 3 "=)")
 	)
 	(lib_symbols
 		(symbol "74xx:74HC86"
